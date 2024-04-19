@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jaydattdholakiya/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/jaydattdholakiya/" height="30" width="110" /></a>
 </p>
 
-<h3 align="left">Coding Profile::</h3>
+<h3 align="left">Coding Profile:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/jaydatt." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jaydatt." height="50" width="40" /></a>
 </p>
