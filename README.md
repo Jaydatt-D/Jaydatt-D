@@ -13,7 +13,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="50px" />
 </div>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydatt-d&show_icons=true&theme=dark&locale=en" alt="jaydatt-d" /></p>
+<p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=jaydatt-d&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydatt-d&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&layout=compact" /></p></br>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
