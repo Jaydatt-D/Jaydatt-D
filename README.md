@@ -1,5 +1,5 @@
-<h1 align="left">Hello, I'm Jaydatt 👋</h1>
-<h3 align="left">I am a competitive programmer, starting my development journey.</h3>
+<h1 align="left">Hello, I'm Jaydatt <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc1NzE1ODksIm5iZiI6MTcxNzU3MTI4OSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjM4OTEtN2JiMWU3MDQtNjAyNi00OGY5LTg0MzUtMmY0ZDQwMTAxMzQ4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjA1VDA3MDgwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2YTc1ODFlM2U5ODZlZjViYmFiMDJkYTQzNTRiNzZiZDFmZTZhOTM0ZGUzNmI5MWU4ODVhZDZiYzRkZDZlOGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.BZPjtU7RKkA6lboAWNvp2dXqmOkj73i6dOzmWReGhSI" width="35"></h1>
+<h3 align="left">I am a competitive programmer, starting my development journey. </h3><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" vertical-align="bottom">
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
